@@ -1,0 +1,13 @@
+Git linea de comandos git status -s
+			git add . para todo sino el nombre solo del archivo
+			git commit -am para add y mensaje -m solo mensaje
+			git log --oneline para ver los commit
+			git commit -ammend para editar commit
+			git push --tags
+			git pull
+			click derecho sobre la carpeta git clone y link de clonado del github
+control p para volver al ultimo comando
+			git reset --hard y numero del commit al que queremos volver.
+
+
+cambio de prueba
