@@ -1,0 +1,7 @@
+SQL Developer no es un sistema gestor de base de datos
+Un SGBD guarda y lee datos en diferentes bases de datos
+Admin del mysql:root
+Admin del Oracle:system
+En oracle cada BD es un usuario
+tipos de datos oracle
+number (numero de digitos, cuales son decimales).
