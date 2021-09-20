@@ -10,4 +10,5 @@ control p para volver al ultimo comando
 			git reset --hard y numero del commit al que queremos volver.
 
 
-cambio de prueba
+cambio de prueba 
+detallitos git branch y merge (checkout).
