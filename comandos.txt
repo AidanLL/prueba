@@ -12,3 +12,4 @@ control p para volver al ultimo comando
 
 cambio de prueba 
 detallitos git branch y merge (checkout).
+Para crear un fork tienes que utilizar la opcion de git fork esto creara un repositorio copia del que hiciste fork. Posterior mente lo copias utilizando git clone "link"
